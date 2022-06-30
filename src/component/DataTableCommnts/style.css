@@ -1,0 +1,8 @@
+.input-post {
+  width: 400px;
+  height: 25px;
+  border-radius: 8px;
+  border: 1px solid gray !important;
+  margin-bottom: 20px;
+  padding: 5px;
+}
